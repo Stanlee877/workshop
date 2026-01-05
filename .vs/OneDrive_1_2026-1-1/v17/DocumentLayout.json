@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\OneDrive_1_2026-1-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\OneDrive_1_2026-1-1\\BookSystem\\BookSystem\\BookSystem.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookSystem\\BookSystem\\BookSystem.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\OneDrive_1_2026-1-1\\BookSystem\\BookSystem\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookSystem\\BookSystem\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookSystem.csproj.user",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OneDrive_1_2026-1-1\\BookSystem\\BookSystem\\BookSystem.csproj.user",
+              "RelativeDocumentMoniker": "BookSystem\\BookSystem\\BookSystem.csproj.user",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OneDrive_1_2026-1-1\\BookSystem\\BookSystem\\BookSystem.csproj.user",
+              "RelativeToolTip": "BookSystem\\BookSystem\\BookSystem.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-01-01T11:46:48.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OneDrive_1_2026-1-1\\BookSystem\\BookSystem\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeDocumentMoniker": "BookSystem\\BookSystem\\bin\\Debug\\net8.0\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OneDrive_1_2026-1-1\\BookSystem\\BookSystem\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeToolTip": "BookSystem\\BookSystem\\bin\\Debug\\net8.0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-01T11:29:31.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
